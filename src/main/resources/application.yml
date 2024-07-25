@@ -1,0 +1,6 @@
+
+server.port: 8081
+
+mqtt.broker.url: tcp://localhost:1883
+mqtt.broker.username: controltower
+mqtt.broker.password: Admin@1234
